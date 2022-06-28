@@ -26,10 +26,10 @@
 "R로 마스터하는 머신러닝"이라는 책에서 가져온 것 \
 책에서도 완전하진 않지만 고려하기엔 충분하다고 설명
 
-![](img/Algorithm1.PNG){width=45%}
-![](img/Algorithm2.PNG){width=45%}
-![](img/Algorithm3.PNG){width=50%}
-
-
-![](img/Algorithm4.PNG){width=40%}
-![](img/Algorithm5.PNG){width=40%}
+<figure>
+    <img src="img/Algorithm1.PNG">
+    <img src="img/Algorithm2.PNG">
+    <img src="img/Algorithm3.PNG">
+    <img src="img/Algorithm4.PNG">
+    <img src="img/Algorithm5.PNG">
+</figure>
