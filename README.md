@@ -1,7 +1,5 @@
 # ML_by_ksclown
 
----
-
 ## 들어가기 전에
 우선적으로 pandas 와 numpy를 다룰 예정 \
 왜냐하면, 대부분 데이터를 다루는데 있어서 가장 기본적이고 중요한 툴 중 pandas와 numpy가 속한다고 생각 \
@@ -24,12 +22,21 @@
 전처리를 완료 했으면 다음 중요한 부분은 "어떤 분석툴을 사용 할 것인가?" \
 다른 책을 보다가 매우 좋아보이는 알고리즘을 발견하여 가져옴\
 "R로 마스터하는 머신러닝"이라는 책에서 가져온 것 \
-책에서도 완전하진 않지만 고려하기엔 충분하다고 설명
+책에서도 완전하진 않지만 고려하기엔 충분하다고 설명 \
+여기에 넣고 싶었지만 푸시하면 에러 발생\
+처음 올리는 "[ML] Pandas and Numpy.ipynb" 에 사진 첨부
 
-<figure>
-    <img src="img/Algorithm1.PNG">
-    <img src="img/Algorithm2.PNG">
-    <img src="img/Algorithm3.PNG">
-    <img src="img/Algorithm4.PNG">
-    <img src="img/Algorithm5.PNG">
-</figure>
+## 문서 보는 순서
+Document viewing procedure
+
+1. [ML] Pandas and Numpy.ipynb
+2. 
+...
+
+## 피드백 (Feedback)
+
+만일 의견을 주시면 확인 후 수정하겠습니다.\
+감사합니다.
+
+If you give us a comment, we will check and correct it.\
+thank you
