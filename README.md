@@ -40,7 +40,7 @@ Preprocessing is a very important part to make and understand data suitable for 
 ## 문서 보는 순서
 Document viewing procedure
 
-1. [ML] Pandas and Numpy.ipynb
+1. [ML] PreProcessing.ipynb
 2. 
 ...
 
