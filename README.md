@@ -51,7 +51,8 @@ Document viewing procedure
 1. [ML] PreProcessing.ipynb
 2. [ML] Modeling(Logistic Regression)
 3. [ML] Modeling(Decision Tree)
-4. 
+4. [ML] Modeling(KNN)
+5. 
 ...
 
 ## 피드백 (Feedback)
