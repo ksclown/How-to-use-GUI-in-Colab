@@ -49,10 +49,10 @@ I wanted to upload it here, but the picture didn't upload properly
 Document viewing procedure
 
 1. [ML] PreProcessing.ipynb
-2. [ML] Modeling(Logistic Regression)
-3. [ML] Modeling(Decision Tree)
-4. [ML] Modeling(KNN)
-5. 
+2. [ML] Logistic Regression
+3. [ML] Decision Tree
+4. [ML] KNN
+5. [ML] Ensemble
 ...
 
 ## 피드백 (Feedback)
