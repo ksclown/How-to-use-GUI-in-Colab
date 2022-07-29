@@ -53,6 +53,7 @@ Document viewing procedure
 3. [ML] Decision Tree
 4. [ML] KNN
 5. [ML] Ensemble
+6. [ML] Unsupervised Learning
 ...
 
 ## 피드백 (Feedback)
